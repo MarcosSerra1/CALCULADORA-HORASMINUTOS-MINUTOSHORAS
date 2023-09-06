@@ -10,14 +10,14 @@ Este é um simples programa em Python que permite aos usuários inserir horas e 
 
 3. Insira as horas e os minutos e pressione Enter.
 
-4. O programa calculará o tempo em minutos decimais e exibirá a saída no formato "horas:minutos".
+4. O programa calculará o tempo em minutos decimais e exibirá a saída no formato "horas.minutos".
 
     Exemplo:
     
     ```
     Insira horas: 8
     Insira os minutos: 57
-    Sua hora em minutos decimais é 8:0.95
+    Sua hora em minutos decimais é 8.95
     ```
 
 ## Observações
