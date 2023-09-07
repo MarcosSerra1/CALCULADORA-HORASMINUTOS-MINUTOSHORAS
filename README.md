@@ -27,3 +27,7 @@ Este é um simples programa em Python que permite aos usuários inserir horas e 
 - O programa remove o zero à esquerda dos minutos quando são menores que 10, seguindo o formato desejado (por exemplo, "8:0.95").
 
 - Certifique-se de que o ambiente Python esteja configurado corretamente para executar o código.
+
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/78652932?v=4" width=115><br><sub>Marcos Serra</sub>](https://github.com/marcosserra1)
