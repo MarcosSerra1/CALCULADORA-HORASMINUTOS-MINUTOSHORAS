@@ -1,4 +1,4 @@
-# Conversor de Horas para Minutos Decimais
+# Conversor de Horas para Horas Decimais
 
 Este é um simples programa em Python que permite aos usuários inserir horas e minutos e em seguida, converte esse tempo em minutos decimais. O programa também formata a saída para exibir o resultado no formato "horas.minutos".
 
